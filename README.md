@@ -61,7 +61,7 @@ Here are some screenshots of CannibalsMissionairiesGame project:
   </div>
 
 * <div style="background-color:#ffffff;color:#000000;border-radius:5px;padding:10px;margin:5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/fr/c/cc/JavaFX_Logo.png" height="20" width="20" style="padding-left:10px"/> JavaFx
+    <img src="https://upload.wikimedia.org/wikipedia/fr/c/cc/JavaFX_Logo.png" height="20" width="40" style="padding-left:10px"/> JavaFx
   </div>
 
 </div>
