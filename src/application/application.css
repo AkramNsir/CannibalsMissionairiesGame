@@ -1,0 +1,21 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.congrats {
+    -fx-fill: rgba(144, 238, 144, 0.9); /* Couleur de remplissage semi-transparente */
+    -fx-stroke: transparent;
+    -fx-stroke-width: 0;
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-padding: 10 20 10 20;
+    -fx-arc-width: 30; /* Définir la largeur de l'arc */
+    -fx-arc-height: 30; /* Définir la hauteur de l'arc */	
+}
+.echec {
+    -fx-fill: rgba(255, 102, 102, 0.9); /* Couleur de remplissage semi-transparente */
+    -fx-stroke: transparent;
+    -fx-stroke-width: 0;
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-padding: 10 20 10 20;
+    -fx-arc-width: 30; /* Définir la largeur de l'arc */
+    -fx-arc-height: 30; /* Définir la hauteur de l'arc */	
+}
