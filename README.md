@@ -26,17 +26,27 @@ To set up the project locally, follow these steps:
   git clone https://github.com/AkramNsir/CannibalsMissionariesGame.git
   ```
 
-  2. Ensure you have Java and JavaFX installed on your system:     
-
-  3. Compile the Java files:
+  2. Ensure you have Java and JavaFX installed on your system:
+  3. Go to .java files location:   
+   ```
+  cd src/application
   ```
-  javac -cp . --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls *.java
+
+  4. Compile the Java files:
+  ```
+  javac -cp . --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls,javafx.media -d ..\..\bin\ *.java
   ```
 
 ## Usage
-  1. Run the game:
+  1. Go back to the main directory:
   ```
-  java -cp . --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls Main
+  cd ..
+  cd ..
+  ```
+
+  2. Run the game:
+  ```
+  java --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls,javafx.media -cp bin application.Main
   ```
 
   2. Use the graphical user interface to move the characters across the river by selecting them and clicking the "GO" button
