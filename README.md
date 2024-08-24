@@ -49,7 +49,7 @@ To set up the project locally, follow these steps:
   java --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls,javafx.media -cp bin application.Main
   ```
 
-  2. Use the graphical user interface to move the characters across the river by selecting them and clicking the "GO" button
+  3. Use the graphical user interface to move the characters across the river by selecting them and clicking the "GO" button
 
 ## Screenshots 
 Here are some screenshots of CannibalsMissionairiesGame project:
