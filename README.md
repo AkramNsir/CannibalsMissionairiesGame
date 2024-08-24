@@ -23,7 +23,7 @@ To set up the project locally, follow these steps:
 
   1. Clone the Repository:
   ```
-  git clone https://github.com/yourusername/CannibalsMissionariesGame.git
+  git clone https://github.com/AkramNsir/CannibalsMissionariesGame.git
   ```
 
   2. Ensure you have Java and JavaFX installed on your system:     
